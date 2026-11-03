@@ -1,4 +1,5 @@
-
+users.json
+memory/dhmif_memory.json
 # Virtual environments
 .venv/
 .venv-*/
