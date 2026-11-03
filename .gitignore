@@ -1,0 +1,23 @@
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secret API keys
+.env
+.env.*
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
